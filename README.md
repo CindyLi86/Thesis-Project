@@ -28,3 +28,4 @@ Documentation of Cindy Li's Thesis Project. Contains all progress from working i
 Still Need:
 1. rename NPC by command or code to enable rename function
 2. players can pick up the dialogue from where they left
+3. color on key words
