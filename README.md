@@ -19,3 +19,12 @@ Documentation of Cindy Li's Thesis Project. Contains all progress from working i
   
   2. Dialogue designer-create NPC dialogues and scenes (https://jannisx11.github.io/dialogue-designer/)
 </details>
+
+## Development log
+2.22 Storytelling implementation
+
+1. dialogues of part one created
+2. scenes are linked
+Still Need:
+1. rename NPC by command or code to enable rename function
+2. players can pick up the dialogue from where they left
