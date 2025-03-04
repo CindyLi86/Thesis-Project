@@ -29,3 +29,19 @@ Still Need:
 1. rename NPC by command or code to enable rename function
 2. players can pick up the dialogue from where they left
 3. color on key words
+
+2.26 Dialogue and implementation Problem fixed
+
+1. Players can pick up the conversation
+2. Full dialogue wrote up
+3. Change the world time by command coded for buttons
+Still Need:
+1. Create a loop for the last dialogue window to change the world time to the second day.
+
+3.3 Mission implementation
+
+1. Angry entity(monster) creates and working properly
+Still need: 
+1. Set the summon position, attact area of the monster. 
+2. Test the difficulty of the monster.
+
