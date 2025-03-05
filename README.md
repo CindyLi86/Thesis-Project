@@ -25,6 +25,7 @@ Documentation of Cindy Li's Thesis Project. Contains all progress from working i
 
 1. dialogues of part one created
 2. scenes are linked
+
 Still Need:
 1. rename NPC by command or code to enable rename function
 2. players can pick up the dialogue from where they left
@@ -35,13 +36,20 @@ Still Need:
 1. Players can pick up the conversation
 2. Full dialogue wrote up
 3. Change the world time by command coded for buttons
+
 Still Need:
 1. Create a loop for the last dialogue window to change the world time to the second day.
 
 3.3 Mission implementation
 
 1. Angry entity(monster) creates and working properly
+
 Still need: 
 1. Set the summon position, attact area of the monster. 
 2. Test the difficulty of the monster.
 
+3.5 Mission and dialogue combined
+1. Mission1: monster summon by command in dialogue complete
+
+Still need: 
+1. Mission 3: choose house location for player and NPC
