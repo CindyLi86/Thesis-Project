@@ -12,6 +12,8 @@ Documentation of Cindy Li's Thesis Project. Contains all progress from working i
 <https://www.pocketgamer.com/minecraft/minecraft-bedrock-commands/>
 
 <https://github.com/microsoft/minecraft-samples>
+
+<https://www.curseforge.com/minecraft-bedrock/addons/instant-structures-v6>
 ## Tools
 <details>
   
@@ -53,3 +55,7 @@ Still need:
 
 Still need: 
 1. Mission 3: choose house location for player and NPC
+
+3.10 Mission and dialogue combined
+1. Full dialogue writen up
+2. Mission 3: Instant house build add-on experience
