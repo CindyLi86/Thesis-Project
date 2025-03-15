@@ -101,6 +101,10 @@ Still need:
 3.10 Mission and dialogue combined
 <details>
   
+
+Uploading prototypemp4.mp4…
+
+
 1. Full dialogue implemented. 
 2. Mission 3: Instant house build add-on experience.
 3. Font chosing.
