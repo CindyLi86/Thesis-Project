@@ -36,6 +36,7 @@ Documentation of Cindy Li's Thesis Project. Contains all progress from working i
   
 1. Inquery sent to Thunder Lotus for licence to develope the mod.
 2. Explore the Java and bedrock version of Minecraft.
+3. Reached out to undergrad alumni for mod development.
 
 </details>
 2.6 Learn Mincraft
