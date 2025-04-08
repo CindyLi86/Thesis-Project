@@ -101,10 +101,6 @@ Still need:
 </details>
 3.10 Mission and dialogue combined
 <details>
-  
-
-Uploading prototypemp4.mp4…
-
 
 1. Full dialogue implemented. 
 2. Mission 3: Instant house build add-on experience.
@@ -112,4 +108,29 @@ Uploading prototypemp4.mp4…
 Still need:
 1. Can not edit the length of the button to have a full display of the text.
 
+</details>
+3.28 Text edit
+<details>
+
+1. Colored the text in dialogue.
+2. Scene and logie connected
+3. Final thesis proposal updated waiting for approval.
+
+Still need:
+1. Fire particles.
+   
+</details>
+4.8 Fire particle and rename NPC
+<details>
+
+1. Tried to created widget for text enter to allow players rename NPC. Failed on this method. Alternatively, name of NPC becomes the relationship between player and NPC. still using /tag to establish connection.
+2. Obtained set_on_fire script from microsoft bedrock learning website. Trained ChatGPT to modify the code from spawn a skeleton and set it on fire, modify the manifest.js to claim a higher version of editor. Created command and scriptevent of the script. Failed on this method.
+3. Obtained flame particle json file from snowstorm and create scriptevent trigger for it. Failed triger the flame.
+4. Using command block in minecraft with "/execute @a[tag=Burning]~~~particle Minecraft:lava_particle~~~" and /particle minecraft:~~~ to spawn the flame particle.Failed
+5. All above scripteven are successfully called, but not thing happend.
+6. Used /particle flame ~~~ to create fire in the game, prompt "request to create flame sent to all players". Still nothing visual or pysical damage happened to anyone. 
+
+Still need:
+1. Fire particles.
+   
 </details>
