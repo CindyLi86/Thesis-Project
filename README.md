@@ -134,3 +134,19 @@ Still need:
 1. Fire particles.
    
 </details>
+
+4.9 Fire particle
+<details>
+
+1. Successfully call the lava_particle repeatly through the command blcok.
+2. Able to starts and pause the command by adding/removing tags to all entity.
+3. Level design the places of gold block for players to collect.
+4. Clearified the mission instruction in the dialogues
+5. Fixed the problem of contents didn't fully display in the button.
+6. pre-set the spaqning point for new player.
+   
+
+Still need:
+1. Export the world as a template and run with all add-ons for tests.
+   
+</details>
