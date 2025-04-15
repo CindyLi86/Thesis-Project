@@ -150,3 +150,15 @@ Still need:
 1. Export the world as a template and run with all add-ons for tests.
    
 </details>
+
+4.14 Packaging
+<details>
+
+1. Exported with the instant builder in the world template.
+2. Finished pre-setting and level design.
+3. Attached the Survey URL at the end of the narrative.
+
+Still need:
+1. Approve of proposal
+2. resease mode for data collection
+</details>
